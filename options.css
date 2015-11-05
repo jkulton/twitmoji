@@ -1,0 +1,33 @@
+body {
+	width:50%;
+	display:block;
+	margin:0 auto;
+	margin-top:35px;
+	background-color: #E9EAED;
+	color:#333;
+}
+
+.main {
+	background-color: #fff;
+	padding:50px;
+	padding-bottom:15px;
+	box-shadow:0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24)
+}
+
+.built-by {
+	text-align:center;
+}
+
+.built-by a,.built-by a:visited {
+	color:#333;
+}
+
+select {
+	-webkit-appearance: menulist-button;
+	font-size:2em;
+	height:2em;
+}
+
+button, select {
+	margin:10px 0px;
+}

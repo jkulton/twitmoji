@@ -1,0 +1,11 @@
+.HeartAnimation {
+	background:none !important;
+}
+
+.HeartAnimationContainer {
+	font-size:1.3em !important;
+}
+
+.HeartAnimationContainer:hover{
+	text-shadow: 0px 2px 2px rgba(50, 50, 50, 0.35);
+}

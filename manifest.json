@@ -1,0 +1,20 @@
+{
+  "name": "Twitmoji",
+  "version": "0.6",
+  "manifest_version": 2,
+  "description": "Change the like button on Twitter to an emoji!",
+  "options_page": "options.html",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "web_accessible_resources": [
+      "/emoji/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/*"],
+      "css": ["basic.css"],
+      "js": ["jquery-min.js", "contentscript.js"]
+    }
+  ],
+  "permissions":["storage"]
+}
