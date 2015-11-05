@@ -1,5 +1,10 @@
 # twitmoji
+
 A Chrome extension to change the heart button on Twitter to an emoji
+
+<a href="https://chrome.google.com/webstore/detail/twitmoji/fbimolgdbjjgecnlgmbgoblkpalgcbfa"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png"></a>
+
+<hr>
 
 v0.6 - Initial GitHub push, added more emoji options. Cleaned up js, manifest, and put css in folder.
 
