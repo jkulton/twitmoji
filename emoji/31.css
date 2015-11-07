@@ -1,0 +1,3 @@
+.HeartAnimationContainer::after {
+	content: '🍕';
+}
