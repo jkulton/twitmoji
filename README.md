@@ -6,6 +6,8 @@ A Chrome extension to change the heart button on Twitter to an emoji
 
 <hr>
 
+v0.7 - added some emoji :doughnut:
+
 v0.6 - Initial GitHub push, added more emoji options. Cleaned up js, manifest, and put css in folder.
 
 v0.5 - Added extension icon. Tweaked hover effect for emoji slightly.
