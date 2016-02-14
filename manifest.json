@@ -1,6 +1,6 @@
 {
   "name": "Twitmoji",
-  "version": "0.6",
+  "version": "0.7",
   "manifest_version": 2,
   "description": "Change the like button on Twitter to an emoji!",
   "options_page": "options.html",

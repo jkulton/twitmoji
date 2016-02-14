@@ -4,6 +4,8 @@
 
 .HeartAnimationContainer {
 	font-size:1.3em !important;
+	height:20px;
+	width:20px;
 }
 
 .HeartAnimationContainer:hover{
